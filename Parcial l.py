@@ -1,4 +1,5 @@
-import numpy as np
+
+import  numpy as np
 from abc import ABC, abstractmethod
 from scipy.integrate import quad
 import math
